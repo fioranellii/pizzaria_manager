@@ -11,7 +11,7 @@ public class ItemPedido extends DataAccessObject {
     private String observacao;
 
     public ItemPedido() {
-        super("ITEM_PEDIDO");
+        super("item_pedido");
     }
 
     public int getIdPedido() {

@@ -12,7 +12,7 @@ public class Produto extends DataAccessObject {
     private String categoria;
 
     public Produto() {
-        super("PRODUTOS");
+        super("produtos");
     }
 
     public int getIdProduto() {

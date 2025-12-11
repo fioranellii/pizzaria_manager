@@ -1,0 +1,126 @@
+11-Dec-2025 09:45:20.750 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.44
+11-Dec-2025 09:45:20.762 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 4 2025 13:14:17 UTC
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.44.0
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.8.0-60-generic
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-21-openjdk-amd64
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+6-Ubuntu-0ubuntu124.04
+11-Dec-2025 09:45:20.763 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+11-Dec-2025 09:45:20.764 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/aluno/pizzaria_manager/apache-tomcat-10.1.44
+11-Dec-2025 09:45:20.764 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/aluno/pizzaria_manager/apache-tomcat-10.1.44
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/logging.properties
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|dell-OptiPlex-3080
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-Dec-2025 09:45:20.779 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Dec-2025 09:45:20.780 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/aluno/pizzaria_manager/apache-tomcat-10.1.44
+11-Dec-2025 09:45:20.781 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/aluno/pizzaria_manager/apache-tomcat-10.1.44
+11-Dec-2025 09:45:20.781 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/temp
+11-Dec-2025 09:45:20.783 INFORMAÇÕES [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/opt/oracle/product/23ai/dbhomeFree/lib::/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+11-Dec-2025 09:45:21.232 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Dec-2025 09:45:21.273 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.load Server initialization in [796] milliseconds
+11-Dec-2025 09:45:21.343 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Dec-2025 09:45:21.344 INFORMAÇÕES [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.44]
+11-Dec-2025 09:45:21.360 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/SGCMS2A2025.xml]
+11-Dec-2025 09:45:21.383 ADVERTÊNCIA [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/SGCMS2A2025] in deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/SGCMS2A2025.xml] has been ignored
+11-Dec-2025 09:45:21.432 GRAVE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/SGCMS2A2025.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:654)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:632)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:527)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:418)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1621)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:303)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:772)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:203)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:412)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:870)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:761)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@1cb346ea]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4159)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4281)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [/home/aluno/Área de trabalho/SGCMS2A2025/build/web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:758)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:715)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 39 more
+11-Dec-2025 09:45:21.437 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/SGCMS2A2025.xml] has finished in [74] ms
+11-Dec-2025 09:45:21.438 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/manager]
+11-Dec-2025 09:45:21.952 INFORMAÇÕES [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:21.988 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/manager] has finished in [550] ms
+11-Dec-2025 09:45:21.988 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/host-manager]
+11-Dec-2025 09:45:22.139 INFORMAÇÕES [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:22.142 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/host-manager] has finished in [154] ms
+11-Dec-2025 09:45:22.142 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/ROOT]
+11-Dec-2025 09:45:22.284 INFORMAÇÕES [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:22.286 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/ROOT] has finished in [144] ms
+11-Dec-2025 09:45:22.286 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/docs]
+11-Dec-2025 09:45:22.410 INFORMAÇÕES [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:22.411 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/docs] has finished in [125] ms
+11-Dec-2025 09:45:22.411 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/examples]
+11-Dec-2025 09:45:22.699 INFORMAÇÕES [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:22.733 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/webapps/examples] has finished in [321] ms
+11-Dec-2025 09:45:22.736 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Dec-2025 09:45:22.745 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.start Server startup in [1469] milliseconds
+11-Dec-2025 09:45:24.393 INFORMAÇÕES [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml]
+11-Dec-2025 09:45:24.394 ADVERTÊNCIA [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/pizzaria] in deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has been ignored
+11-Dec-2025 09:45:24.547 INFORMAÇÕES [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:24.548 GRAVE [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+11-Dec-2025 09:45:24.549 GRAVE [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.startInternal Context [/pizzaria] startup failed due to previous errors
+11-Dec-2025 09:45:24.557 INFORMAÇÕES [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has finished in [164] ms
+11-Dec-2025 09:45:34.928 INFORMAÇÕES [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.stop The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pizzaria]] after stop() had already been called. The second call will be ignored.
+11-Dec-2025 09:45:35.429 INFORMAÇÕES [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/pizzaria]
+11-Dec-2025 09:45:35.434 INFORMAÇÕES [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml]
+11-Dec-2025 09:45:35.435 ADVERTÊNCIA [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/pizzaria] in deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has been ignored
+11-Dec-2025 09:45:35.602 INFORMAÇÕES [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:45:35.618 INFORMAÇÕES [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has finished in [184] ms
+11-Dec-2025 09:46:30.663 INFORMAÇÕES [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/pizzaria]
+11-Dec-2025 09:46:30.677 INFORMAÇÕES [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml]
+11-Dec-2025 09:46:30.679 ADVERTÊNCIA [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/pizzaria] in deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has been ignored
+11-Dec-2025 09:46:30.793 INFORMAÇÕES [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2025 09:46:30.798 INFORMAÇÕES [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/home/aluno/pizzaria_manager/apache-tomcat-10.1.44/conf/Catalina/localhost/pizzaria.xml] has finished in [121] ms
+11-Dec-2025 09:46:30.801 INFORMAÇÕES [http-nio-8080-exec-3] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pizzaria]] after start() had already been called. The second call will be ignored.
+11-Dec-2025 09:51:34.970 INFORMAÇÕES [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-Dec-2025 09:51:34.970 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Dec-2025 09:51:34.971 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Dec-2025 09:51:34.996 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Dec-2025 09:51:35.008 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

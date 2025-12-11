@@ -18,8 +18,8 @@
         <welcome-file>/home/login.jsp</welcome-file>
     </welcome-file-list>
     <error-page>
-    <error-code>500</error-code>
-    <location>/home/app/error.jsp</location> 
+    <error-code>404</error-code>
+    <location>/home/app/erro.jsp</location> 
     </error-page>
     <error-page>
     <exception-type>java.lang.Throwable</exception-type>

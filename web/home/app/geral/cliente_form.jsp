@@ -6,7 +6,70 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Cliente Form</title>
         <style>
-            /* ... (Seu CSS aqui) ... */
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                color: #333;
+                margin: 0;
+                padding: 20px;
+            }
+            .form-container {
+                width: 50%;
+                margin: 30px auto;
+                background-color: #fff;
+                padding: 30px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+            h1 {
+                text-align: center;
+                color: #e74c3c;
+                margin-bottom: 25px;
+            }
+            label {
+                display: block;
+                margin-top: 15px;
+                font-weight: bold;
+                color: #333;
+            }
+            input[type="text"], input[type="email"], input[type="tel"], input[type="number"], textarea {
+                width: 100%;
+                padding: 10px;
+                margin-top: 5px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+                font-size: 16px;
+            }
+            input[type="submit"] {
+                background-color: #27ae60;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                width: 100%;
+                margin-top: 30px;
+                font-size: 18px;
+                transition: background-color 0.3s;
+            }
+            input[type="submit"]:hover {
+                background-color: #229954;
+            }
+            .btn-voltar {
+                display: block;
+                width: 100%;
+                text-align: center;
+                margin-top: 20px;
+                padding: 8px;
+                background-color: #3498db;
+                color: white;
+                text-decoration: none;
+                border-radius: 4px;
+            }
+            .btn-voltar:hover {
+                background-color: #2980b9;
+            }
         </style>
     </head>
     <body>
@@ -21,9 +84,7 @@
                 cli = new Cliente();
                 cli.setIdCliente(id);
                 cli.load();
-                // NOTA: No modo update, cli.getIdCliente() terá o valor carregado
             }
-            // NOTA: No modo create, cli permanece null, e o ID será inserido pelo usuário
         %>
         
         <div class="form-container">
@@ -50,7 +111,7 @@
                 
                 <input type="submit" value="Salvar Cliente">
             </form>
-            <a href="<%= request.getContextPath()%>/home/app/clientes.jsp" class="btn-voltar">Voltar</a>
+            <a href="<%= request.getContextPath()%>/home/app/geral/clientes.jsp" class="btn-voltar">Voltar</a>
         </div>
     </body>
 </html>

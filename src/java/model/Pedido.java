@@ -17,7 +17,7 @@ public class Pedido extends DataAccessObject {
     private int idFuncionario;
 
     public Pedido() {
-        super("PEDIDOS");
+        super("pedidos");
     }
 
     public int getIdPedido() {

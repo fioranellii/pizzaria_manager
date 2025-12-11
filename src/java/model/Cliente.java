@@ -12,7 +12,7 @@ public class Cliente extends DataAccessObject {
     private String endereco;
 
     public Cliente() {
-        super("CLIENTE");
+        super("cliente");
     }
     
     public int getIdCliente() {

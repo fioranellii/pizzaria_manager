@@ -11,7 +11,7 @@ public class Ingrediente extends DataAccessObject {
     private String unidadeMedida;
 
     public Ingrediente() {
-        super("INGREDIENTES");
+        super("ingredientes");
     }
 
     public int getIdIngrediente() {

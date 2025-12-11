@@ -31,7 +31,7 @@
         </style>
     </head>
     <body>
-        <h1>Página de Erro</h1>
+        <h1>ERRO 404</h1>
         
         <div class="error-box">
             Esta é uma página de erro. Se você foi redirecionado para esta página, significa que algum erro aconteceu.
