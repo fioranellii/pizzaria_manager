@@ -1,4 +1,4 @@
-INSERT INTO FUNCIONARIOS (id_funcionario, nome, cpf, senha, cargo) 
+INSERT INTO funcionarios (id_funcionario, nome, cpf, senha, cargo) 
 VALUES 
 (
     4, 
